@@ -1,5 +1,5 @@
 
-<img src="/assets/images/posts/frontS3.png" alt="logo" width="800"/>
+<img src="/ScreenShots/frontS3.png" alt="logo" width="800"/>
 
 ## What is Amazon S3?
 
